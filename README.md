@@ -23,3 +23,9 @@
 [curl 的用法指南](https://www.ruanyifeng.com/blog/2019/09/curl-reference.html)
 
 [xargs 命令教程](https://www.ruanyifeng.com/blog/2019/08/xargs-tutorial.html)
+
+[Linux服务器的初步配置流程](https://www.ruanyifeng.com/blog/2014/03/server_setup.html)
+
+[Linux的五个查找命令](https://www.ruanyifeng.com/blog/2009/10/5_ways_to_search_for_files_using_the_terminal.html)
+
+[代码的抽象三原则](https://www.ruanyifeng.com/blog/2013/01/abstraction_principles.html)
